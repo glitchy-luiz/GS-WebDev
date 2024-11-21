@@ -48,6 +48,8 @@ header{
 
 .navtext{
 margin-right: 35%;
+text-decoration: none;
+color: #d1d5db;
 }
 
 
@@ -107,7 +109,6 @@ margin-right: 35%;
 }
 
 header, footer {
-  background-color: #007bff;
   color: #f8f9fa; }
 
 .grid-container {
@@ -310,4 +311,10 @@ textarea {
 .form-button button:focus-visible {
   outline: 2px solid #007bff;
   outline-offset: 2px;
+}
+
+.maldito{
+  text-decoration: none;
+  color: #d1d5db;
+  margin-right: 10%;
 }
