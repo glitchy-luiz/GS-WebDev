@@ -1,3 +1,4 @@
+import { NavLink } from "react-router-dom"
 
 function Header (){
     return(
@@ -10,9 +11,9 @@ function Header (){
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="info">Informações</a></li>
-                        <li class="nav-item"><a class="nav-link" href="beneficio">Benefícios</a></li>
+                        <li class="nav-item"><NavLink class="nav-link" to="/">Home</NavLink></li>
+                        <li class="nav-item"><NavLink class="nav-link" to="/info">Informações</NavLink></li>
+                        <li class="nav-item"><NavLink class="nav-link" to="/beneficio">Benefícios</NavLink></li>
                     </ul>
                 </div>
             </nav>
