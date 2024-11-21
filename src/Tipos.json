@@ -1,0 +1,27 @@
+[
+    {
+        "slug":"solar",
+        "tit": "Energia Solar",
+        "desc": "Energia da luz do sol",
+        "img": "/mostra-solar.png",
+        "texto1": "A energia solar é captada por meio de painéis fotovoltaicos, dispositivos compostos por células solares que convertem a luz solar diretamente em eletricidade. Essas células, feitas de materiais semicondutores como o silício, utilizam o efeito fotovoltaico, onde a luz do sol estimula o movimento dos elétrons, gerando uma corrente elétrica contínua (DC). Um inversor é então necessário para converter essa corrente em alternada (AC), a forma de eletricidade utilizada na rede elétrica. A energia gerada pelos painéis solares pode ser usada imediatamente, armazenada em baterias para uso posterior ou, em alguns sistemas, vendida para a rede elétrica, reduzindo os custos energéticos. Graças à evolução tecnológica, os painéis atuais conseguem produzir eletricidade mesmo em condições de céu nublado, o que amplia seu potencial de uso em diferentes regiões e climas.",
+        "texto2": "O Brasil possui um grande potencial para geração de energia solar, principalmente em áreas como o Nordeste, onde a incidência solar é intensa durante quase todo o ano. Uma vantagem notável da energia solar é sua modularidade: os painéis podem ser instalados tanto em residências e pequenas empresas quanto em usinas solares de grande porte. Esse aspecto flexível torna a energia solar uma solução acessível para diversos tipos de usuários e aplicações. No entanto, ainda existem desafios a serem superados, como o alto custo inicial dos equipamentos e a necessidade de uma grande área para a instalação dos painéis em projetos de maior escala. Mesmo com esses desafios, a energia solar se destaca como uma opção limpa e renovável, que não emite poluentes e oferece uma fonte de energia estável e previsível a longo prazo."
+    },
+    {
+        "slug":"eolica",
+        "tit": "Energia Eólica",
+        "desc": "A energia dos ventos é transformada em eletricidade.",
+        "img": "/mostra-eolica.jpg",
+        "texto1": "A energia eólica é gerada a partir da força do vento, que movimenta aerogeradores — turbinas que transformam a energia cinética do vento em energia mecânica e, em seguida, em energia elétrica. Essas turbinas possuem hélices que giram quando atingidas pelo vento, acionando um eixo conectado a um gerador, onde ocorre a conversão para eletricidade. A altura das torres e o local de instalação das turbinas são cuidadosamente projetados para otimizar a captura dos ventos, aproveitando as correntes de ar mais intensas em altitudes maiores e em áreas abertas. A energia gerada pode então ser transmitida para a rede elétrica, oferecendo uma alternativa renovável que contribui significativamente para a matriz energética.",
+        "texto2": "A energia eólica é uma das fontes de energia renovável que mais cresce no Brasil e no mundo, sendo especialmente viável em regiões costeiras e áreas planas com ventos constantes. No Brasil, o Nordeste possui um grande potencial eólico, devido aos ventos intensos e constantes, permitindo que algumas regiões operem com alta eficiência. Uma única turbina eólica pode abastecer centenas de residências, sendo uma excelente opção para grandes empreendimentos de energia limpa. Entretanto, as turbinas eólicas enfrentam desafios como a variação dos ventos e a possibilidade de ruídos, além do impacto visual nas paisagens e, em alguns casos, em espécies de aves. Ainda assim, sua contribuição para a redução das emissões de carbono a torna uma escolha estratégica no combate às mudanças climáticas."
+
+    },
+    {
+        "slug":"hidre",
+        "tit": "Energia Hidrelétrica",
+        "desc": "A força das águas gera eletricidade limpa.",
+        "img": "/mostra-hidre.avif",
+        "texto1": "A energia hidrelétrica é produzida pelo movimento da água, geralmente em grandes represas, onde a força da água em queda movimenta turbinas conectadas a geradores de eletricidade. Esse processo transforma a energia potencial da água represada em energia mecânica e, finalmente, em energia elétrica. Uma das principais vantagens das usinas hidrelétricas é sua alta eficiência na conversão de energia, pois a queda d’água gera uma quantidade considerável de energia com um impacto mínimo nos insumos. No Brasil, onde há uma vasta rede de rios, as hidrelétricas representam uma parte essencial da matriz energética, fornecendo uma grande quantidade de energia e permitindo a manutenção de uma matriz majoritariamente limpa e renovável.",
+        "texto2": "O Brasil é um dos líderes mundiais em energia hidrelétrica, com usinas de grande porte, como Itaipu, localizada na fronteira com o Paraguai e que, durante muitos anos, foi a maior geradora de energia hidrelétrica do mundo. No entanto, esse tipo de usina também apresenta desafios: sua eficiência depende diretamente da disponibilidade de água, que pode variar com o ciclo de chuvas. Em períodos de seca, as usinas hidrelétricas podem ser afetadas, diminuindo sua capacidade de geração. Além disso, o impacto ambiental de grandes represas pode ser significativo, afetando ecossistemas e comunidades próximas. Apesar dessas questões, a energia hidrelétrica continua sendo um pilar crucial da geração de energia no Brasil, proporcionando eletricidade em larga escala e reforçando o compromisso do país com fontes renováveis."
+    }
+]
